@@ -7,8 +7,8 @@
 머리를 믿지 말고 손을 믿어라.   
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJun00&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHanJun00&layout=compact&theme=dracula)
+// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJun00&show_icons=true&theme=dracula)
+// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHanJun00&layout=compact&theme=dracula)
 </div>
 
 
