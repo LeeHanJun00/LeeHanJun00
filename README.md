@@ -6,6 +6,5 @@
 머리를 믿지 말고 손을 믿어라.   
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHanJun00)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHanJun00&layout=compact&theme=dracula)
 </div>
